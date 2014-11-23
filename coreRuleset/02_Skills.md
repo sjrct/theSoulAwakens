@@ -14,7 +14,7 @@ to the summation of all the numbers from 1 to the next level times 10. Below is
 a table containing the threshold for the first few levels
 
 Level | Threshold to achieve next level
----------------------------------------
+------|--------------------------------
 0     | 10
 1     | 30
 2     | 60
